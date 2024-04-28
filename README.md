@@ -40,3 +40,5 @@ pages = ['X']
 Dataframe from page 'X'. 
 
 ![image](https://github.com/DudekCode/NIP-Polish-Tax-Number/assets/111693910/e489f3b8-d50f-413f-ab64-fab60d3391c7)
+
+Contributions and suggestions for improvement are always welcome!
